@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vbnbTt5m)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15279500&assignment_repo_type=AssignmentRepo)
 # Dev_Setup
 Setup Development Environment
 
@@ -35,7 +37,8 @@ This assignment aims to familiarize you with the tools and configurations necess
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
-- Document detailing the setup process with step-by-step instructions and screenshots where necessary.
+- Document detailing the setup process with step-by-step instructions and screenshots where 
+necessary.
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
 
@@ -50,3 +53,52 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+SOLUTION 1
+1. Format a drive and set the primary partition as active
+2. copy windows set up to the USB flash drive
+3. Install Windows to the new PC
+
+
+SOLUTION 2 (Steps to Install VS Code)
+1. Go to https://code.visualstudio.com/
+2. Download for windows
+
+
+SOLUTION 3 (install Git)
+1. Go to https://www.git-scm.com/
+2. click on Windows
+3. click on Download
+4. Save the download
+5. Run the git Installer
+6. Gitbash is successfully installed
+7. Run as administrator
+
+SOLUTION 4 (Install Python)
+1. Go to https://www.python.org/downloads/
+2. Click on Downloads
+3. Click on Python 3.12 to download(select version)
+4. click on Install now
+5. Add extensions
+
+
+SOLUTION 5 (Install Package(Numpy))
+1. Open command line
+2. type: pip install numpy
+
+
+SOLUTION 6 Download and install MySQL database
+1. Go to https://dev.mysql.com/downloads/windows/installer/5.7.html
+2. click on second option (installer)
+3. click on Custom
+4. click on Next
+5. click on MySQL server
+6. Next, Execute
+7. follow throghh...
+
+
+SOLUTION 7 (EXTENSIONS)
+1. Open VSCode
+2. click on extensions
+3. Click on Install
